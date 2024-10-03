@@ -1,4 +1,4 @@
-<p align="right"><i>I do not think, therefore I do not am<br>-Anonymous</i></p>
+<p align="right"><i>"I do not think, therefore I do not am"<br>-Anonymous</i></p>
 <h1>Reed Hiland</h1>
 Currently studying at Eastern Washington University, working on a B.S. in Computer Science. My focus is on databases and big data, along with java web development.
 
