@@ -1,17 +1,7 @@
-<table width="100%"> <!-- Markdown formats this header weird -->
-  <tr>
-    <td align="left"><span style="font-size: 28px; font-weight: 600;">Reed Hiland</span></td>
-    <td align="right">
-    <i>I do not think, therefore I do not am<br>-Anonymous</i></td>
-  </tr>
-  <tr>
-    <td colspan="2">Currently studying at Eastern Washington University, working on a B.S. in Computer Science. My focus is on databases and big data, along with java web development.</td>
-  </tr>
-</table>
 
-<p align="right">dddd</p>
-# Reed Hiland
-
+<p align="right"><i>I do not think, therefore I do not am<br>-Anonymous</i></p>
+<h1>Reed Hiland</h1>
+Currently studying at Eastern Washington University, working on a B.S. in Computer Science. My focus is on databases and big data, along with java web development.
 
 [![Linkedin Badge](https://img.shields.io/badge/-wendel--hiland-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-hiland/)](https://www.linkedin.com/in/wendel-hiland/)
 
